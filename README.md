@@ -18,7 +18,7 @@
       get engaged and have some  fun with coding as well.<br>
   
   <h3> Technologies Used </h3>
-  <img src="https://i.pcmag.com/imagery/reviews/05CbcW9cP4o0rqbCnVB2OFZ-31..v_1584707546.jpg" width=500>
+  <img src="https://i.pcmag.com/imagery/reviews/05CbcW9cP4o0rqbCnVB2OFZ-31..v_1584707546.jpg" alt="Macbook Pro" width="500">
   <p> Macbook Air 2019 </p>
   
 </body>
