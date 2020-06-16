@@ -8,6 +8,9 @@
       <li> Intro to JS: Arrays</li>
       <li> Intro to JS: Objects</li>
       <li> Intro to JS: Object Oriented Design</li>
+      <li>Intro to HTML/CSS: Intro to HTML</li>
+      <li>Intro to HTML/CSS: Intro to CSS</li>
+      <li>Intro to HTML/CSS: CSS Layout</li>
   </ol>
   
   <h3> Coding Challenge </h3>
