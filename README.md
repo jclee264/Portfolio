@@ -13,7 +13,7 @@
   </ol>
   
   <h5> Why Are These Modules Important to my Learning?</h5>
-  <p> These modules have helpedme learn how to even code this website! Although sometimes the modules can get a little boring 
+  <p> These modules have helped me learn how to even code this website! Although sometimes the modules can get a little boring 
       they do really help you expand your knowledge in the course. For me personally, I find that Khan Academy is a great
       tool for all learners because having the mini challenges along the way makes it easier to complete the final project
       at the end of the module. Alhough personally I prefer reading new information instead of watching a video, learning
