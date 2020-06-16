@@ -1,6 +1,6 @@
 # Portfolio 2020
 
-<body>
+
   
   <h3> Top 10 Modules on Khan Academy </h3>
   
@@ -24,4 +24,4 @@
   <img src="https://i.pcmag.com/imagery/reviews/05CbcW9cP4o0rqbCnVB2OFZ-31..v_1584707546.jpg" alt="Macbook Pro" width="500">
   <p> Macbook Air 2019 </p>
   
-</body>
+
